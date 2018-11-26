@@ -4,11 +4,22 @@
     <title>Jekyll-Webpack Boilerplate</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </description>
-    <link>http://allizad.com/</link>
-    <atom:link href="http://allizad.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 26 Nov 2018 13:13:41 -0500</pubDate>
-    <lastBuildDate>Mon, 26 Nov 2018 13:13:41 -0500</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 26 Nov 2018 14:24:30 -0500</pubDate>
+    <lastBuildDate>Mon, 26 Nov 2018 14:24:30 -0500</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Test</title>
+        <description>&lt;p&gt;efsdfsfdsfasdfsadf&lt;/p&gt;
+</description>
+        <pubDate>Mon, 26 Nov 2018 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/2018/11/26/test.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/11/26/test.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>Welcome to Jekyll!</title>
@@ -28,8 +39,8 @@
 
 </description>
         <pubDate>Mon, 02 May 2016 10:28:59 -0400</pubDate>
-        <link>http://allizad.com/jekyll/update/2016/05/02/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://allizad.com/jekyll/update/2016/05/02/welcome-to-jekyll.html</guid>
+        <link>http://localhost:4000/jekyll/update/2016/05/02/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2016/05/02/welcome-to-jekyll.html</guid>
         
         
         <category>jekyll</category>
